@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.footer-main{
+    margin-top: 500px;
+}
+
+/*CONTATOS*/
+
+.contacts {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+  }
+  
+  .title {
+    color: #0CF58B;
+    margin-top: 0;
+  }
+  
+  .social-links li {
+    margin-bottom: 40px;
+  }
+  
+  .social-links a {
+    color: #333;
+    display: inline-block;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .social-links a:hover {
+    color: #0CF58B;
+  }
+  
+  .fa-whatsapp,
+  .fa-envelope,
+  .fa-instagram {
+    margin-right: 5px;
+  }
+  
